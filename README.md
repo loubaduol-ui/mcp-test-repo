@@ -1,2 +1,6 @@
-# mcp-test-repo
-MCP capability test repo - safe to delete
+# MCP 连通性测试
+
+本仓库由 AI 助手通过 MCP 自动创建，用于验证写入能力。
+
+- 创建时间：见下方
+- 状态：✅ 测试通过，可以安全删除
